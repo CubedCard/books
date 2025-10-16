@@ -55,8 +55,18 @@ closed.
 
 ---
 
+## 🛜 [Computer Networking: A Top-Down Approach — Kurose & Ross](./Computer_Networking_A_Top_Down_Approach/notes.md)
+> “Every message is a miracle of coordination — countless machines agreeing, for a moment, on meaning.”
+
+---
+
 ## 🧑‍💻 [The Pragmatic Programmer](./The_Pragmatic_Programmer)
 > “Care about your craft.”
+
+Each chapter's notes:  
+[Chapter 01](./The_Pragmatic_Programmer/Chapter_01/Chapter_01_summary.md) ·
+[Chapter 02](./The_Pragmatic_Programmer/Chapter_02/Chapter_02_summary.md) ·
+[Chapter 03](./The_Pragmatic_Programmer/Chapter_03/Chapter_03_summary.md) ·
 
 ---
 
