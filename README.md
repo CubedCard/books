@@ -67,6 +67,8 @@ Each chapter's notes:
 [Chapter 01](./The_Pragmatic_Programmer/Chapter_01/Chapter_01_summary.md) ·
 [Chapter 02](./The_Pragmatic_Programmer/Chapter_02/Chapter_02_summary.md) ·
 [Chapter 03](./The_Pragmatic_Programmer/Chapter_03/Chapter_03_summary.md) ·
+[Chapter 04](./The_Pragmatic_Programmer/Chapter_04/Chapter_04_summary.md) ·
+[Chapter 05](./The_Pragmatic_Programmer/Chapter_05/Chapter_05_summary.md) ·
 
 ---
 
