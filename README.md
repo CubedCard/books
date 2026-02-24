@@ -72,6 +72,14 @@ Each chapter's notes:
 
 ---
 
+## 🧱 [Clean Architecture](./Clean_Architecture)
+> “Keep it clean.”
+
+Each chapter's notes:  
+[Foreword](./Clean_Architecture/Foreword/Foreword_notes.md) ·
+
+---
+
 ### 🪶 Closing Thought
 
 One book. One idea. One sentence that stayed behind.
