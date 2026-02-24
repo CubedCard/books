@@ -77,6 +77,7 @@ Each chapter's notes:
 
 Each chapter's notes:  
 [Foreword](./Clean_Architecture/Foreword/Foreword_notes.md) ·
+[Chapter 01](./Clean_Architecture/Chapter_01/Chapter_01_summary.md) ·
 
 ---
 
