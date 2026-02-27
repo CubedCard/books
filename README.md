@@ -81,7 +81,8 @@ Each chapter's notes:
 
 ---
 
-### 🪶 Closing Thought
+## 🪶 [Unit Testing](./Unit_Testing)
+> “Good tests.”
 
-One book. One idea. One sentence that stayed behind.
-
+Each chapter's notes:  
+[Chapter 01](./Unit_Testing/Chapter_01/Chapter_01_summary.md) ·
