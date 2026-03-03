@@ -87,3 +87,4 @@ Each chapter's notes:
 
 Each chapter's notes:  
 [Chapter 01](./Unit_Testing/Chapter_01/Chapter_01_summary.md) ·
+[Chapter 02](./Unit_Testing/Chapter_02/Chapter_02_summary.md) ·

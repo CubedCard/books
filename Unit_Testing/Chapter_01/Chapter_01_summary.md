@@ -1,4 +1,4 @@
-# Part 1 - The Bigger Picture
+# Chapter 1 - The Bigger Picture
 The first part mostly talks about what to expect of this book. It also discusses what usually goes wrong in the unit testing scene. When comparing the trajectory of projects without tests, with good tests, and with bad tests, they noticed some interesting things. 
 
 Firstly, when no tests were written at all, the amount of effort needed for progress would initially be very low and then exponentially grow. This would result in many bugs and low maintainability. 
