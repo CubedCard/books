@@ -80,6 +80,7 @@ Each chapter's notes:
 [Chapter 01](./Clean_Architecture/Chapter_01/Chapter_01_summary.md) ·
 [Chapter 02](./Clean_Architecture/Chapter_02/Chapter_02_summary.md) ·
 [Chapter 03](./Clean_Architecture/Chapter_03/Chapter_03_summary.md) ·
+[Chapter 04](./Clean_Architecture/Chapter_04/Chapter_04_summary.md) ·
 
 ---
 
