@@ -100,3 +100,4 @@ Each chapter's notes:
 [Chapter 01](./Unit_Testing/Chapter_01/Chapter_01_summary.md) ·
 [Chapter 02](./Unit_Testing/Chapter_02/Chapter_02_summary.md) ·
 [Chapter 03](./Unit_Testing/Chapter_03/Chapter_03_summary.md) ·
+[Chapter 04](./Unit_Testing/Chapter_04/Chapter_04_summary.md) ·
