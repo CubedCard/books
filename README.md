@@ -102,6 +102,7 @@ Each chapter's notes:
 [Chapter 03](./Unit_Testing/Chapter_03/Chapter_03_summary.md) ·
 [Chapter 04](./Unit_Testing/Chapter_04/Chapter_04_summary.md) ·
 [Chapter 05](./Unit_Testing/Chapter_05/Chapter_05_summary.md) ·
+[Chapter 06](./Unit_Testing/Chapter_06/Chapter_06_summary.md) ·
 
 ---
 
