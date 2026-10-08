@@ -69,6 +69,14 @@ as: `Use the /create-book-notes skill to make notes about what I just read.`
 
 ---
 
+## 🧭 [Learning Domain-Driven Design](./Learning_Domain_Driven_Design)
+> “Understand the business behind software.”
+
+Each chapter's notes: 
+[Chapter 01](./Learning_Domain_Driven_Design/Chapter_01/Chapter_01_summary.md) ·
+
+---
+
 ## 🧑‍💻 [The Pragmatic Programmer](./The_Pragmatic_Programmer)
 > “Care about your craft.”
 

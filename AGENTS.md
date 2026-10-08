@@ -14,6 +14,19 @@ Use a two-digit chapter number consistently in both the directory and filename.
 
 Whenever you add a chapter note, update `README.md` to include a link to it in the relevant book's chapter list. Keep the list consistent with the notes present in the repository.
 
+For a book with chapter notes, follow the existing README section pattern:
+
+```markdown
+## <Fitting emoji> [<Book Title> — <Author, if known>](./<Book_Name>)
+> “<Short quote or tagline.>”
+
+Each chapter's notes:  
+[Chapter 01](./<Book_Name>/Chapter_01/Chapter_01_summary.md) ·
+[Chapter 02](./<Book_Name>/Chapter_02/Chapter_02_summary.md) ·
+```
+
+Use an emoji that fits the book, include the author only when known, and link to the exact book directory. The line below the heading should be a concise, double-quoted quote or tagline, five words or fewer and ending with a period. Prefer a quote supplied by the reader; do not invent or present a paraphrase as a verbatim quote. If the reader asks for a made-up line, base it on their reflections and treat it as an original tagline, not a book quote. List chapter links in order, each on its own line, with the existing ` ·` separator. Keep the list consistent with the notes present in the repository. For books without chapter notes, preserve the README's existing single-link entry style.
+
 ## Note structure
 
 Each note should contain:
