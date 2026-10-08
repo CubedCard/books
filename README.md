@@ -3,6 +3,15 @@
 A small archive of the books I’ve read — each folder contains a single quote or idea that lingered after the pages
 closed.
 
+## Creating chapter notes
+
+Use the `create-book-notes` repository skill to capture your latest reading session.
+It interviews you about the book, chapter or section, and what you learned, then
+writes a chapter summary following `AGENTS.md` and updates this index.
+
+In Copilot CLI, run `/skills reload` after adding the skill, then use a prompt such
+as: `Use the /create-book-notes skill to make notes about what I just read.`
+
 ---
 
 ## 🧠 [12 Rules For Life — Jordan Peterson](./12_Rules_For_Life/notes.md)
@@ -108,4 +117,3 @@ Each chapter's notes:
 
 ## ⭐️ [Black Holes - Stephen Hawking](./Black_Holes/notes.md)
 > “Black holes are not hairy.”
-
